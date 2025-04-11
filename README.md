@@ -1,5 +1,8 @@
 SN Corp Power BI Sales Dashboard
+
+
 Dashboard Requirements:
+
 To conduct a comprehensive analysis of SN Corp's sales performance, customer profitability, and regional distribution using various KPIs and visualizations in Power BI. This helps identify business trends, top-performing segments, and opportunities for operational and strategic optimization.
 
 KPIs Used:
