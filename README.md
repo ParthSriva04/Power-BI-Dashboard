@@ -16,26 +16,31 @@ Order Trend – A yearly and quarterly analysis of total orders processed.
 
 Visualizations Used:
 1. Total Sales by Country
+
 Objective: Understand how sales are distributed across various countries.
 
 Chart Type: Filled Map
 
 2. Customer-wise Profit, Cost, and Sales
+
 Objective: Identify the most profitable and cost-effective customers.
 
 Chart Type: Table Visual with multiple metrics
 
 3. Sales, Profit & Quantity by Sub-Category
+
 Objective: Evaluate product performance by sub-category.
 
 Chart Type: Clustered Column Chart
 
 4. Quantity Sold by Region
+
 Objective: Assess distribution of item quantities across regions.
 
 Chart Type: Pie Chart
 
 5. Order Trend Over Years and Quarters
+
 Objective: Analyze order volume trends over time to uncover seasonal patterns.
 
 Chart Type: Line Chart
